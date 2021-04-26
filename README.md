@@ -1,0 +1,2 @@
+# Improved-Sampling-and-Feature-Selection-to-Support-Extreme-Gradient-Boosting-For-PCOS-Diagnosis
+This project is a part of the research on PolyCystic Ovary Syndrome Diagnosis using a patient history datasets through statistical feature selection and multiple machine learning strategies. The aim of this project was to identify the best possible that strongly classifies PCOS in patients of different age and conditions.
